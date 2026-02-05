@@ -1,8 +1,7 @@
 # Heya 👋
 
-Ich heiße Dominik und versuche, meine Ideen in reale Projekte umzusetzen. 🚀
-Ich glaube fest daran, dass jede Idee früher oder später realisiert werden kann, manchmal braucht es nur Zeit, Kaffee und ein paar Bugs mehr als geplant.
-
+Ich heiße Dominik und versuche, meine Ideen in reale Projekte umzusetzen. 🚀  
+Ich glaube fest daran, dass jede Idee früher oder später realisiert werden kann, manchmal braucht es nur Zeit, Kaffee und ein paar Bugs mehr als geplant.  
 
 ## 🛠️ Technologien, mit denen ich arbeite
 
