@@ -1,16 +1,33 @@
-## Hi there 👋
+# Heya 👋
 
-<!--
-**Dom5inik/Dom5inik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich heiße Dominik und versuche, meine Ideen in reale Projekte umzusetzen. 🚀
+Ich glaube fest daran, dass jede Idee früher oder später realisiert werden kann, manchmal braucht es nur Zeit, Kaffee und ein paar Bugs mehr als geplant.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologien, mit denen ich arbeite
+
+Ich beschäftige mich hauptsächlich mit:
+
+• C#  
+• TypeScript  
+• React  
+• ASP.NET / ASP.NET Core  
+
+## 💻 Bevorzugte Tools 
+
+• Visual Studio & Visual Studio Code – meine täglichen Arbeitsumgebungen  
+• Git & GitHub – Versionskontrolle ist ein Muss  
+• Postman – zum Testen und Debuggen von APIs  
+• Figma – für schnelle UI- und Design-Ideen  
+
+## 📚 Lernen & Zukunft
+
+Ich lerne ständig dazu und entwickle meine Fähigkeiten weiter.  
+Mein Ziel ist klar: Softwareentwicklung soll meine berufliche Zukunft werden und ich arbeite aktiv darauf hin.  
+Jedes Projekt ist ein Schritt nach vorne (auch wenn es sich manchmal wie ein Umweg anfühlt 😅).  
+
+## 🎮 Ein paar Fakten über mich
+Abseits vom Code:
+
+🎯 Ich spiele gerne Competitive Games – und bin darin sogar ziemlich gut  
+🔧 Ich mag DIY-Projekte und das Bauen bzw. Erschaffen von Dingen  
