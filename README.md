@@ -11,12 +11,13 @@ Ich beschäftige mich hauptsächlich mit:
 
 | Frontend | Backend |
 |---------|---------|
-| React | C# WPF |
+| C# WPF | Oracle DB |
+| React |   PL/SQL |
 | Next.js | ASP.NET MVC |
-| TypeScript | ASP.NET / ASP.NET Core |
-| Tailwind CSS | Oracle DB |
-|  | PL/SQL |
-|  | Node.js |
+| TypeScript | Node.js  |
+| Tailwind CSS | 
+|  ASP.NET / ASP.NET Core |
+|---------|---------|
 
 
 
