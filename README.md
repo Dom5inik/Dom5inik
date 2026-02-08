@@ -17,7 +17,6 @@ Ich beschäftige mich hauptsächlich mit:
 | TypeScript | Node.js  |
 | Tailwind CSS | 
 |  ASP.NET / ASP.NET Core |
-|---------|---------|
 
 
 
