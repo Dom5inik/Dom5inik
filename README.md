@@ -7,8 +7,6 @@ Ich glaube fest daran, dass jede Idee früher oder später realisiert werden kan
 
 Ich beschäftige mich hauptsächlich mit:
 
-## Ich beschäftige mich hauptsächlich mit:
-
 | Frontend | Backend |
 |---------|---------|
 | C# WPF | Oracle DB |
