@@ -7,10 +7,14 @@ Ich glaube fest daran, dass jede Idee früher oder später realisiert werden kan
 
 Ich beschäftige mich hauptsächlich mit:
 
-• C#  
-• TypeScript  
-• React  
+Frontend:                    Backend:
+• C# WPF                     • Oracle DB
+• React                      • PL/SQL
+• Next.js                    • ASP.NET MVC
+• TypeScript                 • Node.js
+• Tailwind CSS  
 • ASP.NET / ASP.NET Core  
+
 
 ## 💻 Bevorzugte Tools 
 
